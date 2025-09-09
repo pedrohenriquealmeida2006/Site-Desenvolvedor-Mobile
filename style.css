@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+h1{
+    color:white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    text-indent: 10px;
+    line-height: 1.5;
+    color: white;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.borda{
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    max-width: 10000px;
+}
+.reta{
+    width: 360px;
+    border-radius: 12px;
+}
+.borda p{
+    flex: 1;
+    text-indent: 10px;
+    line-height: 1.5;
+    color: white;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    color: white;
+}
